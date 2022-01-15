@@ -14,7 +14,7 @@ const songs = [
   'The Nights',
   'Jab Mila Tu',
   'Hymn for the Weekend',
-  'FRIENDS',
+  'Friends',
   'Dusk Till Dawn',
   'Closer',
   'Memories'
