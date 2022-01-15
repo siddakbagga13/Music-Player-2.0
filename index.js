@@ -12,11 +12,8 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 const songs = [
   'The Nights',
-  'Stay',
   'Jab Mila Tu',
-  'Lover',
   'Hymn for the Weekend',
-  'Beautiful people',
   'FRIENDS',
   'Dusk Till Dawn',
   'Closer',
