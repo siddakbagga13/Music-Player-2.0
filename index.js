@@ -19,7 +19,8 @@ const songs = [
   'Beautiful people',
   'FRIENDS',
   'Dusk Till Dawn',
-  'Closer'
+  'Closer',
+  'Memories'
 ];
 let songIndex = 0;
 loadSong(songs[songIndex]);
